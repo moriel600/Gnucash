@@ -213,4 +213,4 @@ GnuCash is available as a complete free version with all features and updates in
 Take control of your finances today! Download GnuCash now and start managing your accounts with ease.
 
 ---
-**Last updated:** 2026-11-07 15:17:01 UTC
+**Last updated:** 2026-11-07 19:44:40 UTC
